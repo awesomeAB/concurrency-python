@@ -14,3 +14,7 @@
 
 ```Downloaded 160 sites in 1.3555772304534912 seconds```
 
+### 4. Multiprocessing
+
+``` Downloaded 160 in 5.341126172805786 seconds ```
+
