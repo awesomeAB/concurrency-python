@@ -32,4 +32,4 @@ if __name__ == "__main__":
     start_time = time.time()
     download_all_sites(sites)
     duration = time.time() - start_time
-    print(f"Downloaded {len(sites)} in {duration} seconds")
+    print(f"Downloaded {len(sites)} sites in {duration} seconds")
